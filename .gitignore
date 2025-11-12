@@ -1,0 +1,12 @@
+# .gitignore
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE files (VSCode)
+.vscode/
