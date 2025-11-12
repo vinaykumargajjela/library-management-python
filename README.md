@@ -23,3 +23,14 @@ This is a simplified, console-based library management system created as a techn
     * View all borrowers and the specific books they have checked out (including overdue status).
 
 ## 📁 Project Structure
+```
+library-management-python/
+├── src/
+│   ├── book.py          # Book class definition
+│   ├── borrower.py      # Borrower class definition
+│   ├── library.py       # Library class with management logic
+├── main.py              # Entry point with menu loop
+├── README.md            # Project overview, setup, and usage
+└── .gitignore           # Ignore pycache, etc.
+
+```
